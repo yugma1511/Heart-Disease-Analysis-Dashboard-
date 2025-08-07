@@ -48,5 +48,17 @@ Female-Only Analysis
 Male-Only Analysis
 <img width="1278" height="716" alt="Screenshot 2025-08-07 135555" src="https://github.com/user-attachments/assets/5b447a9a-f6ac-49e3-ad9e-9a6120918c07" />
 
+📎 Use Cases
+Health risk profiling by demographic
+
+Identifying age groups at higher cardiac risk
+
+Comparative gender-based health data visualization
+
+Medical data storytelling with interactive dashboards
+
+🌐 LinkedIn Post
+View the live post 👉 
+
 
 
