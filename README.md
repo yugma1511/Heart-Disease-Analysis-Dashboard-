@@ -58,7 +58,7 @@ Comparative gender-based health data visualization
 Medical data storytelling with interactive dashboards
 
 🌐 LinkedIn Post
-View the live post 👉 
+View the live post 👉 https://www.linkedin.com/posts/activity-7359170578810908674-tEnI?utm_source=share&utm_medium=member_desktop&rcm=ACoAADv0_ywB9yrAw6kapsW8WJUgO9Fjs4eGzRo
 
 
 
